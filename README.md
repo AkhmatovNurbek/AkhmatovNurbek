@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Akhmatov Nurbek!
-<a href='https://www.linkedin.com/in/nurbek-axmatov/' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/nurbek-axmatov/' alt="linkedin" src="https://github.com/AkhmatovNurbek/About-me/blob/main/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
