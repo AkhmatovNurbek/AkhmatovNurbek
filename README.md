@@ -4,13 +4,13 @@
 <a href='https://t.me/axmatov_N'><img alt="kaggle" src="https://github.com/AkhmatovNurbek/About-me/blob/main/assets/icons8-telegram-150.png" height='18px'/></a>
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+ I am a hardworking Java developer with the ability to create elegant solutions in minimum time. Very interested in learning new technologies and trying to use them in real projects. Main responsibilities and skills: building, and maintaining Java-based applications and websites; developing well-designed and efficient code, and testing this code; analyzing software; programming, testing, and debugging🌐.
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/AkhmatovNurbek/About-me/blob/main/techstack.gif" width="360px"/>
   
-### 🧐 More About Me:
+###  More About Me:
 
 - 🔭 &nbsp; I’m currently working on **youtube-audio-player**
 - 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
