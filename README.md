@@ -26,8 +26,8 @@
 
 ### 🔨 Languages and Tools:
 <a href="https://www.java.com/en/" target="_blank"> <img align="left" src="https://github.com/AkhmatovNurbek/icons/blob/main/java/java.svg" alt="java" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://spring.io/" target="_blank"><img align="left" alt="Spring" height ="42px" src="https://github.com/AkhmatovNurbek/icons/blob/main/spring/spring.svg"></a>
+<a href="https://www.postgresql.org/" target="_blank"> <img align="left" src="https://github.com/AkhmatovNurbek/icons/blob/main/postgresql/postgresql-vertical.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height ="42px" src="https://github.com/AkhmatovNurbek/icons/blob/main/docker/docker.svg"> </a>
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
