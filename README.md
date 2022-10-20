@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/AkhmatovNurbek/About-me/blob/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/AkhmatovNurbek/About-me/blob/main/Developer%20activity.gif" width="360px"/>
   
 ###  More About Me:
 
