@@ -31,7 +31,7 @@
 <a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="Mongo" height ="42px" src="https://github.com/AkhmatovNurbek/icons/blob/main/MongoDb/mongodb-logo-svgrepo-com.svg"></a>
 <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height ="42px" src="https://github.com/AkhmatovNurbek/icons/blob/main/docker/docker.svg"> </a>
 <a href="https://www.liquibase.org/" target="_blank"><img align="left" alt="Liquibase" height ="42px" src="https://github.com/AkhmatovNurbek/icons/blob/main/liquibase/Liquibase.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://swagger.io/" target="_blank"> <img align="left" src="https://github.com/AkhmatovNurbek/icons/blob/main/Swagger/swagger.svg" alt="firebase" height ="42px"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
