@@ -12,7 +12,7 @@
   
 ###  More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🔭 &nbsp; I am currently working as a **freelancer**
 - 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AkhmatovNurbek)
