@@ -46,7 +46,7 @@
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
 
 ![Stats Overview](https://raw.githubusercontent.com/AkhmatovNurbek/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Most Used Languages](https://raw.githubusercontent.com/AkhmatovNurbek/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </a>
 
