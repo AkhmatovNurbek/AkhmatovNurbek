@@ -43,7 +43,7 @@
 
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/AkhmatovNurbek/github-stats'>
 
 ![Stats Overview](https://raw.githubusercontent.com/AkhmatovNurbek/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![Most Used Languages](https://raw.githubusercontent.com/AkhmatovNurbek/github-stats/master/generated/languages.svg#gh-dark-mode-only)
