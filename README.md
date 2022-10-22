@@ -44,6 +44,9 @@
 
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
+
+![](https://raw.githubusercontent.com/AkhmatovNurbek/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/AkhmatovNurbek/github-stats/master/generated/overview.svg#gh-light-mode-only)
   
 ![Stats Overview](https://github.com/AkhmatovNurbek/github-stats/blob/master/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
