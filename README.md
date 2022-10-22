@@ -26,6 +26,7 @@
 
 ### 🔨 Languages and Tools:
 <a href="https://www.java.com/en/" target="_blank"> <img align="left" src="https://github.com/AkhmatovNurbek/icons/blob/main/java/java.svg" alt="java" height="42px"/> </a> 
+<a href="https://www.python.org/" target="_blank"> <img align="left" alt="Python" height ="42px" src="https://github.com/AkhmatovNurbek/icons/blob/main/python/python.svg"></a>
 <a href="https://spring.io/" target="_blank"><img align="left" alt="Spring" height ="42px" src="https://github.com/AkhmatovNurbek/icons/blob/main/spring/spring.svg"></a>
 <a href="https://www.postgresql.org/" target="_blank"> <img align="left" src="https://github.com/AkhmatovNurbek/icons/blob/main/postgresql/postgresql-vertical.svg" alt="postgresql" height="42px"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"><img align="left" alt="Mongo" height ="42px" src="https://github.com/AkhmatovNurbek/icons/blob/main/MongoDb/mongodb-logo-svgrepo-com.svg"></a>
@@ -34,7 +35,6 @@
 <a href="https://swagger.io/" target="_blank"> <img align="left" src="https://github.com/AkhmatovNurbek/icons/blob/main/Swagger/swagger.svg" alt="firebase" height ="42px"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://www.python.org/" target="_blank"> <img align="left" alt="Python" height ="42px" src="https://github.com/AkhmatovNurbek/icons/blob/main/python/python.svg"></a>
 <a href="https://graphql.org/" target="_blank"><img align="left" alt="Graphql" height ="42px" src="https://github.com/AkhmatovNurbek/icons/blob/main/graphql/graphql.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
