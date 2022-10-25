@@ -13,7 +13,7 @@
 ###  More About Me:
 
 - 🔭 &nbsp; I am currently working as a **freelancer**
-- 🤝 &nbsp; I’m looking to collaborate on **new project**
+- 🤝 &nbsp; I’m looking to collaborate on **new project**(ClickUp-Clone)
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AkhmatovNurbek)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/version-control/bro) and Figma I made 👉
