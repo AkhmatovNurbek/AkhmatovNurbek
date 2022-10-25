@@ -55,4 +55,5 @@
 ### 🛠️ My Projects
 <a href="https://github.com/AkhmatovNurbek/springmvc-mvc_upload_library" target="_blank"> <img alt="artistify" src="https://github.com/AkhmatovNurbek/springmvc-mvc_upload_library/blob/master/books-4991.svg" height="68" align="left"> </a>
 <a href="https://github.com/AkhmatovNurbek/icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
+<a href="https://github.com/AkhmatovNurbek/js_todoApp" target="_blank"> <img alt="readmeicons" src="https://github.com/AkhmatovNurbek/js_todoApp/blob/master/src/main/resources/img_2.png" height="68" align="left"> </a>
 
