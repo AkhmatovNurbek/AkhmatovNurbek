@@ -19,7 +19,7 @@
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/version-control/bro) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/nurbek-axmatov/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1red6sAfQgHqV2sDT2TutRpMNrfjU7RRk/view)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/drive/my-drive)
 - 📚 &nbsp; When I am free, I read fantasy and business. Checkout my [Goodreads](https://www.goodreads.com/user/show/157407933-nurbek-akhmatov) to see the book I have read
 
 <br>
